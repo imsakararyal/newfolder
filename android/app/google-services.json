@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "478640901801",
+    "firebase_url": "https://constructionindo-35db1.firebaseio.com",
+    "project_id": "constructionindo-35db1",
+    "storage_bucket": "constructionindo-35db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478640901801:android:6a0ca7c65e64aed1",
+        "android_client_info": {
+          "package_name": "com.abahola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478640901801-h0thsa5ma19ehaa2an60e7l4te8g8ep1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxu0dl3TvcNx9k2zjdjhRDVb7EWU4WllQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478640901801:android:6c115d5b97f22ca4",
+        "android_client_info": {
+          "package_name": "com.constructioncolumbia2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478640901801-h0thsa5ma19ehaa2an60e7l4te8g8ep1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxu0dl3TvcNx9k2zjdjhRDVb7EWU4WllQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
